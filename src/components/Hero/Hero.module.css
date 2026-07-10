@@ -1,0 +1,15 @@
+.base {
+  background-color: rgb(229, 254, 245);
+
+  /* Ancho total */
+  width: 100%;
+
+  /* Altura fija */
+  height: 200px;
+
+  text-align: center;
+}
+
+.text {
+  margin: 15px;
+}
